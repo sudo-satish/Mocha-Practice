@@ -1,0 +1,7 @@
+{
+  "name": "app",
+  "version": "",
+  "scripts": {
+    "test": "mocha --recursive _test/"
+  }
+}
